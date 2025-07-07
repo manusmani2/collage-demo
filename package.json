@@ -1,0 +1,11 @@
+{
+  "name": "collage-demo",
+  "version": "1.0.0",
+  "description": "A demo project for collage using Node.js and Python.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+} 
